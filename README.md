@@ -16,6 +16,7 @@ The application uses MongoDB to store and manage the tasks, making it easy to pe
 
 ## Live Demo :computer:
 Check out the live version of the ToDo-List application at [Live Link](https://todo-list-node.onrender.com/)  Feel free to create, edit, and manage your tasks in real-time.
+
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V2dnM0OWNsaXk5bms5dHhzb3d1NTBsaTRiM2JoZmVlcXM2Y3dxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gYUtHI6bRbZundFQBC/giphy.gif)
 
 ## Installation :inbox_tray:
