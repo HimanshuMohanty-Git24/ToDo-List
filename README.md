@@ -1,5 +1,6 @@
 # ToDo-List :clipboard:
-![image](https://github.com/HimanshuMohanty-Git24/ToDo-List/assets/94133298/a230d111-6833-479d-86c6-1e267227ec2b)
+![image](https://github.com/HimanshuMohanty-Git24/ToDo-List/assets/94133298/3fba667f-ee52-4f94-b584-2300ce4f2da6)
+
 
 ## Description :memo:
 ToDo-List is a simple web application built using Node.js, Express.js, EJS (Embedded JavaScript), CSS, HTML, and MongoDB. It provides an easy-to-use interface for managing your tasks and to-do items. You can add, edit, and delete tasks, mark them as completed, and keep track of your progress.
